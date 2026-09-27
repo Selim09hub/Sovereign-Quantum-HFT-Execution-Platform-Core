@@ -6,17 +6,17 @@ This repository contains the official high-performance **Client Evaluation Code,
 ---
 
 ## 💼 COMMERCIAL & ACQUISITION DISCLOSURE
-**This completed 44-module low-latency core infrastructure is officially available for an Outright, One-Time Software Intellectual Property (IP) Acquisition or Regional Institutional Licensing Sale [source: 1.3.4, 1.3.5].**
+**This completed 44-module low-latency core infrastructure is officially available for an Outright, One-Time Software Intellectual Property (IP) Acquisition or Regional Institutional Licensing Sale.**
 
 * 🏢 **Institutional Core Software License (Internal deployment only):** \$50,000 USD
 * 📈 **Outright Source Code IP Acquisition (Full Global Intellectual Property & Lifetime Ownership Transfer):** \$500,000 USD
 
 ### 📥 Secured Acquisition Process
-1. **Initial Evaluation Phase:** Institutional buyers can review this repository's **3-Module Client Audit Package** containing our masked core C++20/MQL5 memory boundaries [source: 6, 1.3.4, 1.3.5].
-2. **Server-Side Test:** A non-refundable **\$500 USD Evaluation Service Invoice** covers live deployment validation under strict execution terms [source: 1.3.4, 1.3.5].
-3. **Outright IP Assignment:** Full unmasked source code database transfer is executed exclusively via International Wire Transfer upon verification of the official `Outright_IP_Assignment_Agreement` [source: 1.3.4, 1.3.5].
+1. **Initial Evaluation Phase:** Institutional buyers can review this repository's **3-Module Client Audit Package** containing our masked core C++20/MQL5 memory boundaries.
+2. **Server-Side Test:** A non-refundable **\$500 USD Evaluation Service Invoice** covers live deployment validation under strict execution terms.
+3. **Outright IP Assignment:** Full unmasked source code database transfer is executed exclusively via International Wire Transfer upon verification of the official `Outright_IP_Assignment_Agreement`.
 
-**📬 Contact Principal Architecture Developer via LinkedIn for NDA Execution and Secure File Exchange [source: 1.3.4, 1.3.5].**
+**📬 Contact Principal Architecture Developer via LinkedIn for NDA Execution and Secure File Exchange.**
 
 ---
 
