@@ -23,7 +23,7 @@ This repository contains the official high-performance **Client Evaluation Code,
 *   **Direct Core IP Acquisition Wire Matrix:** \$1,250,000 USD (Fixed 15 Crore BDT Sovereign Tier)
 *   **Server-Side Live Integration Deployment:** \$84,000 USD (Annual License Synchronization Token)
 *   **Official Corporate Desk Communication:** selim09hossain@gmail.com
-*   **Secure Institutional Verification Escrow Vault:** https://escrow.com
+*   **Secure Institutional Verification Escrow Vault:** https://www.escrow.com/log-in?tid=13196195
 
 ---
 
