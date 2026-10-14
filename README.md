@@ -151,7 +151,17 @@ python verify_proof.py
 This mathematical framework confirms that the **52-in-1 Ultra Bare-Metal Brain Engine™** does not operate on arbitrary retail parameters. By binding strict risk bounds, capital carry costs protection, and maximum adverse excursion limits directly into runtime assertions, the engine delivers verifiable capital stability and institutional-grade compliance for high-end fund environments.
 
 
+===================================================================
 
+### 🛡️ Formal Mathematical Proof & Verification
+This core infrastructure is mathematically certified against the Risk of Ruin. 
+To independently verify the 1:1 Break-Even partial profit matrix and the 100ms asynchronous drawdown circuit breaker bounds natively, run the audit utility script directly in your WSL/Python Bridge environment:
+
+```bash
+python verify_proof.py
+```
+
+===================================================================
 
 ## 🛠️ Core Architectural Framework & Performance Guardrails
 1. **Bare-Metal Cache Alignment:** Core execution loops enforce strict 64-byte boundaries (`alignas(64)`) to completely eliminate false-sharing and CPU cache-misses under heavy order sweeps.
